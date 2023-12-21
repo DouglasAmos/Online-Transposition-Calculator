@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(205, 226, 228);
+    font-family: 'Courier New', Courier, monospace;
+    border: 1px solid black;
+    padding: 2%;
+}
+
+form{
+    background-color: rgb(235, 247, 247);
+    
+}
+
+div a{
+    background-color: yellow;
+    border: 1px solid black;
+}
+
+
